@@ -1,0 +1,38 @@
+#img1{
+    float: right;
+    margin: 0%;
+    height:50%;
+    width: 30%;
+}
+
+#p1{
+    color: aliceblue;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    float: left;
+    width: 68%;
+    height:49%;
+    vertical-align: middle;
+}
+
+#img2{
+    float: left;
+    margin: 0%;
+    height:50%;
+    width: 30%;
+}
+
+#p2{
+    color: aliceblue;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    float: right;
+    width: 68%;
+    height:49%;
+    vertical-align: middle;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+}
